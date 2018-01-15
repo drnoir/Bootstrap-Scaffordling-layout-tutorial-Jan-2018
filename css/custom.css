@@ -3,8 +3,14 @@ h1,h2,h3,h4,h5{
 font-family:verdana;  
 }
 
-img .fullwidth{
+.fullwidth{
 width:100%;    
 }
 
+.alignleft{
+float:left;
+}
 
+.center{
+margin-left:250px; 
+}
